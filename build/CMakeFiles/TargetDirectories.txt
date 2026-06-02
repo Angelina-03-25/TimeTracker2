@@ -1,0 +1,13 @@
+/Users/angelinacernousova/TimeTracker/build/CMakeFiles/timetracker.dir
+/Users/angelinacernousova/TimeTracker/build/CMakeFiles/timetracker_tests.dir
+/Users/angelinacernousova/TimeTracker/build/CMakeFiles/test.dir
+/Users/angelinacernousova/TimeTracker/build/CMakeFiles/edit_cache.dir
+/Users/angelinacernousova/TimeTracker/build/CMakeFiles/rebuild_cache.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/CMakeFiles/test.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/src/CMakeFiles/test.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+/Users/angelinacernousova/TimeTracker/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir

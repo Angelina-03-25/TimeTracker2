@@ -1,0 +1,5 @@
+if(EXISTS "/Users/angelinacernousova/TimeTracker/build/timetracker_tests-b12d07c_tests.cmake")
+  include("/Users/angelinacernousova/TimeTracker/build/timetracker_tests-b12d07c_tests.cmake")
+else()
+  add_test(timetracker_tests_NOT_BUILT-b12d07c timetracker_tests_NOT_BUILT-b12d07c)
+endif()

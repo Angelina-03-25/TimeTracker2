@@ -1,0 +1,683 @@
+Start testing: May 25 15:00 MSK
+----------------------------------------------------------
+1/34 Testing: TimeEntry создаётся с корректными данными
+1/34 Test: TimeEntry создаётся с корректными данными
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TimeEntry создаётся с корректными данными"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TimeEntry создаётся с корректными данными" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TimeEntry создаётся с корректными данными"
+Randomness seeded to: 2805370282
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"TimeEntry создаётся с корректными данными" end time: May 25 15:00 MSK
+"TimeEntry создаётся с корректными данными" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/34 Testing: TimeEntry завершается корректно
+2/34 Test: TimeEntry завершается корректно
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TimeEntry завершается корректно"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TimeEntry завершается корректно" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TimeEntry завершается корректно"
+Randomness seeded to: 4156523454
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"TimeEntry завершается корректно" end time: May 25 15:00 MSK
+"TimeEntry завершается корректно" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/34 Testing: TimeEntry рассчитывает длительность
+3/34 Test: TimeEntry рассчитывает длительность
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TimeEntry рассчитывает длительность"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TimeEntry рассчитывает длительность" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TimeEntry рассчитывает длительность"
+Randomness seeded to: 3101084134
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"TimeEntry рассчитывает длительность" end time: May 25 15:00 MSK
+"TimeEntry рассчитывает длительность" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/34 Testing: TimeEntry не позволяет завершить раньше начала
+4/34 Test: TimeEntry не позволяет завершить раньше начала
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TimeEntry не позволяет завершить раньше начала"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TimeEntry не позволяет завершить раньше начала" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TimeEntry не позволяет завершить раньше начала"
+Randomness seeded to: 1586479722
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"TimeEntry не позволяет завершить раньше начала" end time: May 25 15:00 MSK
+"TimeEntry не позволяет завершить раньше начала" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/34 Testing: TimeEntry сериализуется в JSON
+5/34 Test: TimeEntry сериализуется в JSON
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TimeEntry сериализуется в JSON"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TimeEntry сериализуется в JSON" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TimeEntry сериализуется в JSON"
+Randomness seeded to: 851424259
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TimeEntry сериализуется в JSON" end time: May 25 15:00 MSK
+"TimeEntry сериализуется в JSON" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/34 Testing: TimeEntry с кириллицей в названии
+6/34 Test: TimeEntry с кириллицей в названии
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TimeEntry с кириллицей в названии"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TimeEntry с кириллицей в названии" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TimeEntry с кириллицей в названии"
+Randomness seeded to: 1474918148
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TimeEntry с кириллицей в названии" end time: May 25 15:00 MSK
+"TimeEntry с кириллицей в названии" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/34 Testing: TimeEntry с пустым названием
+7/34 Test: TimeEntry с пустым названием
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TimeEntry с пустым названием"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TimeEntry с пустым названием" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TimeEntry с пустым названием"
+Randomness seeded to: 1238528859
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TimeEntry с пустым названием" end time: May 25 15:00 MSK
+"TimeEntry с пустым названием" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/34 Testing: TrackerService запускает задачу
+8/34 Test: TrackerService запускает задачу
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TrackerService запускает задачу"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TrackerService запускает задачу" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TrackerService запускает задачу"
+Randomness seeded to: 1920000794
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TrackerService запускает задачу" end time: May 25 15:00 MSK
+"TrackerService запускает задачу" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/34 Testing: TrackerService запрещает вторую активную задачу
+9/34 Test: TrackerService запрещает вторую активную задачу
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TrackerService запрещает вторую активную задачу"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TrackerService запрещает вторую активную задачу" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TrackerService запрещает вторую активную задачу"
+Randomness seeded to: 3154271983
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"TrackerService запрещает вторую активную задачу" end time: May 25 15:00 MSK
+"TrackerService запрещает вторую активную задачу" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/34 Testing: TrackerService останавливает задачу
+10/34 Test: TrackerService останавливает задачу
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TrackerService останавливает задачу"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TrackerService останавливает задачу" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TrackerService останавливает задачу"
+Randomness seeded to: 2937225125
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"TrackerService останавливает задачу" end time: May 25 15:00 MSK
+"TrackerService останавливает задачу" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/34 Testing: TrackerService ошибка остановки без активной
+11/34 Test: TrackerService ошибка остановки без активной
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TrackerService ошибка остановки без активной"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TrackerService ошибка остановки без активной" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TrackerService ошибка остановки без активной"
+Randomness seeded to: 1341344104
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TrackerService ошибка остановки без активной" end time: May 25 15:00 MSK
+"TrackerService ошибка остановки без активной" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/34 Testing: TrackerService список записей
+12/34 Test: TrackerService список записей
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TrackerService список записей"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TrackerService список записей" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TrackerService список записей"
+Randomness seeded to: 1478469308
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TrackerService список записей" end time: May 25 15:00 MSK
+"TrackerService список записей" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/34 Testing: TrackerService редактирование записи
+13/34 Test: TrackerService редактирование записи
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TrackerService редактирование записи"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TrackerService редактирование записи" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TrackerService редактирование записи"
+Randomness seeded to: 1851723354
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TrackerService редактирование записи" end time: May 25 15:00 MSK
+"TrackerService редактирование записи" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/34 Testing: TrackerService удаление записи
+14/34 Test: TrackerService удаление записи
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "TrackerService удаление записи"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"TrackerService удаление записи" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "TrackerService удаление записи"
+Randomness seeded to: 3025194593
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TrackerService удаление записи" end time: May 25 15:00 MSK
+"TrackerService удаление записи" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/34 Testing: JsonStorage сохраняет данные
+15/34 Test: JsonStorage сохраняет данные
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "JsonStorage сохраняет данные"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"JsonStorage сохраняет данные" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "JsonStorage сохраняет данные"
+Randomness seeded to: 1788853521
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JsonStorage сохраняет данные" end time: May 25 15:00 MSK
+"JsonStorage сохраняет данные" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/34 Testing: JsonStorage загружает пустой список
+16/34 Test: JsonStorage загружает пустой список
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "JsonStorage загружает пустой список"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"JsonStorage загружает пустой список" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "JsonStorage загружает пустой список"
+Randomness seeded to: 2188544676
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JsonStorage загружает пустой список" end time: May 25 15:00 MSK
+"JsonStorage загружает пустой список" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/34 Testing: JsonStorage экспорт в файл
+17/34 Test: JsonStorage экспорт в файл
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "JsonStorage экспорт в файл"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"JsonStorage экспорт в файл" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "JsonStorage экспорт в файл"
+Randomness seeded to: 3712654563
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JsonStorage экспорт в файл" end time: May 25 15:00 MSK
+"JsonStorage экспорт в файл" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/34 Testing: JsonStorage Singleton - один экземпляр
+18/34 Test: JsonStorage Singleton - один экземпляр
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "JsonStorage Singleton - один экземпляр"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"JsonStorage Singleton - один экземпляр" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "JsonStorage Singleton - один экземпляр"
+Randomness seeded to: 2954962061
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JsonStorage Singleton - один экземпляр" end time: May 25 15:00 MSK
+"JsonStorage Singleton - один экземпляр" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/34 Testing: JsonStorage работа с кириллицей
+19/34 Test: JsonStorage работа с кириллицей
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "JsonStorage работа с кириллицей"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"JsonStorage работа с кириллицей" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "JsonStorage работа с кириллицей"
+Randomness seeded to: 1026320034
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"JsonStorage работа с кириллицей" end time: May 25 15:00 MSK
+"JsonStorage работа с кириллицей" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/34 Testing: StartCommand создаётся корректно
+20/34 Test: StartCommand создаётся корректно
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "StartCommand создаётся корректно"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"StartCommand создаётся корректно" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "StartCommand создаётся корректно"
+Randomness seeded to: 2177711531
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StartCommand создаётся корректно" end time: May 25 15:00 MSK
+"StartCommand создаётся корректно" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/34 Testing: StartCommand execute успешный
+21/34 Test: StartCommand execute успешный
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "StartCommand execute успешный"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"StartCommand execute успешный" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "StartCommand execute успешный"
+Randomness seeded to: 4210139196
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StartCommand execute успешный" end time: May 25 15:00 MSK
+"StartCommand execute успешный" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/34 Testing: StopCommand без активной задачи
+22/34 Test: StopCommand без активной задачи
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "StopCommand без активной задачи"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"StopCommand без активной задачи" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "StopCommand без активной задачи"
+Randomness seeded to: 3113668675
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StopCommand без активной задачи" end time: May 25 15:00 MSK
+"StopCommand без активной задачи" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/34 Testing: ListCommand пустой список
+23/34 Test: ListCommand пустой список
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "ListCommand пустой список"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"ListCommand пустой список" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "ListCommand пустой список"
+Randomness seeded to: 3912456695
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ListCommand пустой список" end time: May 25 15:00 MSK
+"ListCommand пустой список" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/34 Testing: Command валидация аргументов
+24/34 Test: Command валидация аргументов
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Command валидация аргументов"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Command валидация аргументов" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Command валидация аргументов"
+Randomness seeded to: 707293439
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Command валидация аргументов" end time: May 25 15:00 MSK
+"Command валидация аргументов" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/34 Testing: Command справка
+25/34 Test: Command справка
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Command справка"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Command справка" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Command справка"
+Randomness seeded to: 2294191
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Command справка" end time: May 25 15:00 MSK
+"Command справка" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/34 Testing: Command неизвестная команда
+26/34 Test: Command неизвестная команда
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Command неизвестная команда"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Command неизвестная команда" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Command неизвестная команда"
+Randomness seeded to: 917007600
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Command неизвестная команда" end time: May 25 15:00 MSK
+"Command неизвестная команда" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/34 Testing: Сценарий TS-01: Запуск и остановка
+27/34 Test: Сценарий TS-01: Запуск и остановка
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-01: Запуск и остановка"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-01: Запуск и остановка" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-01: Запуск и остановка"
+Randomness seeded to: 2777237024
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-01: Запуск и остановка" end time: May 25 15:00 MSK
+"Сценарий TS-01: Запуск и остановка" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/34 Testing: Сценарий TS-02: Две активные задачи
+28/34 Test: Сценарий TS-02: Две активные задачи
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-02: Две активные задачи"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-02: Две активные задачи" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-02: Две активные задачи"
+Randomness seeded to: 3107084117
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-02: Две активные задачи" end time: May 25 15:00 MSK
+"Сценарий TS-02: Две активные задачи" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/34 Testing: Сценарий TS-03: Остановка без активной
+29/34 Test: Сценарий TS-03: Остановка без активной
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-03: Остановка без активной"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-03: Остановка без активной" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-03: Остановка без активной"
+Randomness seeded to: 631540719
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-03: Остановка без активной" end time: May 25 15:00 MSK
+"Сценарий TS-03: Остановка без активной" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/34 Testing: Сценарий TS-04: Просмотр записей
+30/34 Test: Сценарий TS-04: Просмотр записей
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-04: Просмотр записей"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-04: Просмотр записей" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-04: Просмотр записей"
+Randomness seeded to: 1891661546
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-04: Просмотр записей" end time: May 25 15:00 MSK
+"Сценарий TS-04: Просмотр записей" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/34 Testing: Сценарий TS-05: Редактирование записи
+31/34 Test: Сценарий TS-05: Редактирование записи
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-05: Редактирование записи"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-05: Редактирование записи" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-05: Редактирование записи"
+Randomness seeded to: 2682905218
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-05: Редактирование записи" end time: May 25 15:00 MSK
+"Сценарий TS-05: Редактирование записи" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/34 Testing: Сценарий TS-06: Удаление записи
+32/34 Test: Сценарий TS-06: Удаление записи
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-06: Удаление записи"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-06: Удаление записи" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-06: Удаление записи"
+Randomness seeded to: 2429540144
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-06: Удаление записи" end time: May 25 15:00 MSK
+"Сценарий TS-06: Удаление записи" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/34 Testing: Сценарий TS-09: Кириллица в названии
+33/34 Test: Сценарий TS-09: Кириллица в названии
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-09: Кириллица в названии"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-09: Кириллица в названии" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-09: Кириллица в названии"
+Randomness seeded to: 4167724324
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-09: Кириллица в названии" end time: May 25 15:00 MSK
+"Сценарий TS-09: Кириллица в названии" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/34 Testing: Сценарий TS-10: Сохранение между запусками
+34/34 Test: Сценарий TS-10: Сохранение между запусками
+Command: "/Users/angelinacernousova/TimeTracker/build/timetracker_tests" "Сценарий TS-10: Сохранение между запусками"
+Directory: /Users/angelinacernousova/TimeTracker/build
+"Сценарий TS-10: Сохранение между запусками" start time: May 25 15:00 MSK
+Output:
+----------------------------------------------------------
+Filters: "Сценарий TS-10: Сохранение между запусками"
+Randomness seeded to: 829229555
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Сценарий TS-10: Сохранение между запусками" end time: May 25 15:00 MSK
+"Сценарий TS-10: Сохранение между запусками" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 25 15:00 MSK
